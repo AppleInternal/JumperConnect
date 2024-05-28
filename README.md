@@ -2,8 +2,11 @@
 An ultimate AppleConnect bypass patch for iOS 
 
 **If you get blank popup or "invalid application key lenght" error, use legacy branch**
+
 **To use this remove AppleConnect app from your device** 
+
 **Very unstable**
+
 **Error -9 is normal**
 
 How to patch app with this: 
