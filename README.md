@@ -1,6 +1,8 @@
 # JumperConnect
 An ultimate AppleConnect bypass patch for iOS 
 
+**iOS12+**
+
 **If you get blank popup or "invalid application key lenght" error, use legacy branch**
 
 **To use this remove AppleConnect app from your device** 
